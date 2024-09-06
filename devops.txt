@@ -1,2 +1,5 @@
 python
 web development
+devops
+aws
+sonarqube
